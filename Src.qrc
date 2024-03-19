@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/MeilleurScore">
+        <file>meilleurScore.txt</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>data/fantome.bmp</file>
+        <file>data/fantomemort.bmp</file>
+        <file>data/intro.bmp</file>
+        <file>data/mur.bmp</file>
+        <file>data/pacgomme.bmp</file>
+        <file>data/pacgommepowerup.bmp</file>
+        <file>data/pacman.bmp</file>
+        <file>data/pacman2.bmp</file>
+        <file>data/pacmanbas.bmp</file>
+        <file>data/pacmanbas2.bmp</file>
+        <file>data/pacmandroit.bmp</file>
+        <file>data/pacmandroit2.bmp</file>
+        <file>data/pacmangauche.bmp</file>
+        <file>data/pacmangauche2.bmp</file>
+        <file>data/pacmanhaut.bmp</file>
+        <file>data/pacmanhaut2.bmp</file>
+        <file>data/porte.bmp</file>
+    </qresource>
+</RCC>
